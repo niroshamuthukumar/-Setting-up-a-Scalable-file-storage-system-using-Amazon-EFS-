@@ -1,6 +1,6 @@
  # SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
- NAME: gayathri m
- REG NO:212223220024
+ NAME: Nirosha M
+ REG NO:212223110032
   ## AIM
        To  setting up a scalable file storage system using Amazon Elastic File System (EFS) for two EC2 instances in different availability zones. 
 ## PROBLEM STATEMENT
